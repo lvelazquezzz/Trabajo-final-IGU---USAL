@@ -1,0 +1,23 @@
+﻿<Window x:Class="PrácticaFinal.CDExportacion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrácticaFinal"
+        mc:Ignorable="d"
+        Title="Exportar datos en XML" Height="220" Width="380" Background="LightGray">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Content="Por favor, seleccione la ruta en la que desee guardar el archivo: " VerticalAlignment="Bottom" Margin="10, 0, 10, 0"/>
+        <TextBox Name="tbRutaExportar" Grid.Row="1" Height="25" Margin="10" VerticalAlignment="Top" />
+        <Button Grid.Row="1" Name="buttonBrowser" Click="buttonBrowser_Click" Height="20" Width="80" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                Margin="10, 0, 10, 0" Content="Browse..." Background="WhiteSmoke"/>
+        <Button Grid.Row="2" Name ="buttonExp" Content="Exportar"  Height="20" Width="80" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                 Margin="10, 0, 10, 10" Background="WhiteSmoke" Click="buttonExp_Click"/>
+    </Grid>
+</Window>
