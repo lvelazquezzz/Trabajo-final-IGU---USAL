@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEjercicio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ejercicio>
+    <Nombre>Sentadillas</Nombre>
+    <Descripcion>Excelente ejercicio para fortalecer las piernas y los gluteos</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Piernas</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Dominadas</Nombre>
+    <Descripcion>Ejercicio ideal para desarrollar la espalda y los bíceps.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Espalda</GrupoMuscular>
+      <GrupoMuscular>Brazos</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Plancha</Nombre>
+    <Descripcion>Un ejercicio isométrico para trabajar el core, especialmente los abdominales</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Core</GrupoMuscular>
+      <GrupoMuscular>Espalda</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones>
+      <Ejecucion>
+        <Repeticiones>60</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-01-24T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>70</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-01-24T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>80</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-01-24T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>60</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-02-02T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>80</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-02-02T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>80</Repeticiones>
+        <Peso>0</Peso>
+        <FechaYHora>2025-02-05T00:00:00</FechaYHora>
+      </Ejecucion>
+    </Ejecuciones>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Curl de bíceps</Nombre>
+    <Descripcion>Un ejercicio simple pero efectivo para desarrollar los brazos, especialmente los bíceps.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Brazos</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Press de banca</Nombre>
+    <Descripcion>Este ejercicio se realiza en una máquina guiada y permite trabajar los músculos del pecho con mayor control.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Pecho</GrupoMuscular>
+      <GrupoMuscular>Brazos</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Jalón al pecho</Nombre>
+    <Descripcion>Un ejercicio para trabajar la espalda, especialmente el dorsal ancho.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Espalda</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Prensa de pierna</Nombre>
+    <Descripcion>Una máquina guiada para trabajar los músculos de las piernas, especialmente los cuadríceps</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Piernas</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones>
+      <Ejecucion>
+        <Repeticiones>12</Repeticiones>
+        <Peso>100</Peso>
+        <FechaYHora>2025-01-24T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>15</Repeticiones>
+        <Peso>110</Peso>
+        <FechaYHora>2025-01-24T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>14</Repeticiones>
+        <Peso>115</Peso>
+        <FechaYHora>2025-02-03T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>12</Repeticiones>
+        <Peso>120</Peso>
+        <FechaYHora>2025-02-03T00:00:00</FechaYHora>
+      </Ejecucion>
+      <Ejecucion>
+        <Repeticiones>15</Repeticiones>
+        <Peso>125</Peso>
+        <FechaYHora>2025-02-08T00:00:00</FechaYHora>
+      </Ejecucion>
+    </Ejecuciones>
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Extensión de pierna</Nombre>
+    <Descripcion>Este ejercicio se enfoca en el desarrollo de los cuadríceps mediante una máquina guiada.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Piernas</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+  <Ejercicio>
+    <Nombre>Press de hombros</Nombre>
+    <Descripcion>Un ejercicio para trabajar los hombros con una máquina guiada.</Descripcion>
+    <Grupo>
+      <GrupoMuscular>Brazos</GrupoMuscular>
+    </Grupo>
+    <Ejecuciones />
+  </Ejercicio>
+</ArrayOfEjercicio>
